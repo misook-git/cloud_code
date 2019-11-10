@@ -9,3 +9,14 @@
 /Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/obj/Debug/netcoreapp2.2/Azure203EventHubWithJSON.AssemblyInfo.cs
 /Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/obj/Debug/netcoreapp2.2/Azure203EventHubWithJSON.dll
 /Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/obj/Debug/netcoreapp2.2/Azure203EventHubWithJSON.pdb
+C:\work\cloud_git\Azure203EventHubWithJSON\bin\Debug\netcoreapp2.2\Azure203EventHubWithJSON.deps.json
+C:\work\cloud_git\Azure203EventHubWithJSON\bin\Debug\netcoreapp2.2\Azure203EventHubWithJSON.runtimeconfig.json
+C:\work\cloud_git\Azure203EventHubWithJSON\bin\Debug\netcoreapp2.2\Azure203EventHubWithJSON.runtimeconfig.dev.json
+C:\work\cloud_git\Azure203EventHubWithJSON\bin\Debug\netcoreapp2.2\Azure203EventHubWithJSON.dll
+C:\work\cloud_git\Azure203EventHubWithJSON\bin\Debug\netcoreapp2.2\Azure203EventHubWithJSON.pdb
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.csprojAssemblyReference.cache
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.csproj.CoreCompileInputs.cache
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.AssemblyInfoInputs.cache
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.AssemblyInfo.cs
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.dll
+C:\work\cloud_git\Azure203EventHubWithJSON\obj\Debug\netcoreapp2.2\Azure203EventHubWithJSON.pdb

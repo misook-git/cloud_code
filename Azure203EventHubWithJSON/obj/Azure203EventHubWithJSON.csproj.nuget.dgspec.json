@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/Azure203EventHubWithJSON.csproj": {}
+    "C:\\work\\cloud_git\\Azure203EventHubWithJSON\\Azure203EventHubWithJSON.csproj": {}
   },
   "projects": {
-    "/Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/Azure203EventHubWithJSON.csproj": {
+    "C:\\work\\cloud_git\\Azure203EventHubWithJSON\\Azure203EventHubWithJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/Azure203EventHubWithJSON.csproj",
+        "projectUniqueName": "C:\\work\\cloud_git\\Azure203EventHubWithJSON\\Azure203EventHubWithJSON.csproj",
         "projectName": "Azure203EventHubWithJSON",
-        "projectPath": "/Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/Azure203EventHubWithJSON.csproj",
-        "packagesPath": "/Users/codingstar/.nuget/packages/",
-        "outputPath": "/Users/codingstar/Documents/workspaces_AzureLecture/Azure203EventHubWithJSON/obj/",
+        "projectPath": "C:\\work\\cloud_git\\Azure203EventHubWithJSON\\Azure203EventHubWithJSON.csproj",
+        "packagesPath": "C:\\Users\\노철우  cheulwoo Ro\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\cloud_git\\Azure203EventHubWithJSON\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/codingstar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\노철우  cheulwoo Ro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
