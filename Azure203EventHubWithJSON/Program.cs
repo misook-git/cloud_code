@@ -7,13 +7,13 @@ using System.Text;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
 
-namespace Azure203EventHubWithJSON
+namespace azuresim12
 {
     class Program
     {
         private static EventHubClient eventHubClient;
-        private const string EventHubConnectionString = "Endpoint=sb://sillahub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=g8d3f9b3aO4lNS2zHY2CSdZrpdSQQBqFDIkaWMHO2IA=";
-        private const string EventHubName = "hub01"; // Event Hub path/name
+        private const string EventHubConnectionString = "Endpoint=sb://evhubcwro123.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=MQjgYLZNQt3o0sevl1lX06zps43Ougj0FmtTaKg7D98=";
+        private const string EventHubName = "evhubdevice123"; // Event Hub path/name
         
         static float temperature = 0.0f;
         static float humidity = 0.0f;
@@ -41,22 +41,22 @@ namespace Azure203EventHubWithJSON
                     builderA.Append("{");
 
                     // device -> Partition Key
-                    builderA.Append("\"device:\"");
+                    builderA.Append("\"device\":");
                     builderA.Append("\"0001\"");
                     builderA.Append(",");
 
                     // time -> row Key
-                    builderA.Append("\"time:\"");
+                    builderA.Append("\"time\":");
                     builderA.Append("\""+unixTimestamp+"\"");
                     builderA.Append(",");
 
                     // First Data
-                    builderA.Append("\"temperature:\"");
+                    builderA.Append("\"temperature\":");
                     builderA.Append(temperature+=1);
                     builderA.Append(",");
 
                     // Second Data
-                    builderA.Append("\"humidity:\"");
+                    builderA.Append("\"humidity\":");
                     builderA.Append(humidity+=1);
 
                     builderA.Append("}\n");
